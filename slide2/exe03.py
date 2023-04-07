@@ -1,6 +1,6 @@
 #Converção de metros para centimetos
 print("Exercicio para converter metros para centrimetros")
 metros = int(input("Digite um numero para converter  "))
-centimetros = int(input("Digite outro numero "))
+convercao = metros * 100
 
-print("Convertendo ficou", metros * centimetros)
+print("Convertendo ficou", convercao)
